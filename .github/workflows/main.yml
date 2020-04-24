@@ -13,7 +13,7 @@ jobs:
       uses: xu-cheng/latex-action@1.2.1
       with:
         # The root LaTeX file to be compiled
-        root_file: main.tex
+        root_file: paper.tex
         # The working directory for the LaTeX engine
         working_directory: # optional
         # The LaTeX engine to be invoked
