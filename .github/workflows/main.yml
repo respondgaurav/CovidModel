@@ -30,4 +30,4 @@ jobs:
         # Artifact name
         name: Upload final PDF file
         # Directory containing files to upload
-        path: main.pdf
+        path: paper.pdf
